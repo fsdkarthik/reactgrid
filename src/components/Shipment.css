@@ -1,0 +1,9 @@
+.error-template{
+    color: red;
+    border:  1px solid red;
+    padding: 20px;
+}
+
+.shipment-grid{
+    background: #454d55;
+}

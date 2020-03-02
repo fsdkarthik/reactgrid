@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test for shipment detail should render Shipment detail Component layout 1`] = `
+Array [
+  <div
+    className="error-message"
+  >
+    Either the rest url configured by is not correct or the record you are looking for is not found
+  </div>,
+]
+`;

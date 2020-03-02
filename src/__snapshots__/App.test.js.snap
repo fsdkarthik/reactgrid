@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component should render App Component layout 1`] = `
+Array [
+  <BrowserRouter>
+    <main>
+      <h2>
+        Shippment information
+      </h2>
+      <section>
+        <Route
+          component={[Function]}
+          exact={true}
+          path="/"
+        />
+        <Route
+          component={[Function]}
+          exact={true}
+          path="/:id"
+        />
+      </section>
+    </main>
+  </BrowserRouter>,
+]
+`;
